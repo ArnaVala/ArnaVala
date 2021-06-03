@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ArnaVala a self-taught front-end developer, with years of experience as a multidisciplinary designer.
-- 👀 I’m interested in front-end development, ux/ui design, design systems... anything related to digital.
+- 👋 Hi, I’m @ArnaVala a self-taught front-end developer, with years of experience as a multidisciplinary designer and a B.Arch degree from Icelandic Academy of the Arts. Looking to go full into front-end development.
+- 👀 I’m interested in front-end development, web design, ux/ui design, design systems.
 - 🌱 I’m currently digging deeper into React and TypeScript. Learning Framer Motion, and building websites in Next.js and Headless CMS.
-- 💞️ I’m looking to get an opportunity as front-end developer building beautiful digital solutions and services.
+- 💞️ I’m looking to get an opportunity as grow as a front-end developer building beautiful digital solutions and services.
 - 📫 Get in touch via...
 
 <!---
